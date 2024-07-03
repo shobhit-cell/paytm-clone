@@ -1,0 +1,7 @@
+#main{
+    display: flex;
+}
+
+#main span{
+    margin-left: 80px;
+}
